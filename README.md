@@ -1,2 +1,2 @@
-# DigitalAid
+# DigitalAide
 print("let's code)
